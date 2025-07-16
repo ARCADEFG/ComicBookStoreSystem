@@ -8,5 +8,5 @@ Admin Interface
 3. View Report - generate sales reports (Daily/Weekly/Monthly), Display best-selling books and top customers 
 
 Customer Interface
-1.Browse Comics - book cannot see quantity available and must update automaticly when customer add to checkout, search book bar by title/author)
-2.Checkout - Store transaction records and After Done Payment show button to generate order receipt for customer
+1. Browse Comics - book cannot see quantity available and must update automaticly when customer add to checkout, search book bar by title/author)
+2. Checkout - Store transaction records and After Done Payment show button to generate order receipt for customer
