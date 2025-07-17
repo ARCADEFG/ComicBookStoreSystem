@@ -1,0 +1,14 @@
+[
+    {
+        "password": "sano123",
+        "phone": "01122227777",
+        "email": "sano@example.com",
+        "username": "sano"
+    },
+    {
+        "password": "sanjeet123",
+        "phone": "012444477777",
+        "email": "sanjeet@example.com",
+        "username": "sanjeet"
+    }
+]

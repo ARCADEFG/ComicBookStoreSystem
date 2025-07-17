@@ -1,0 +1,5 @@
+(Run this First to Compile)
+javac -cp ".;lib/json-20250517.jar" -d out src/BookstoreSystem.java
+
+(Then Run This After Compile to Run The Program)
+java -cp ".;lib/json-20250517.jar;out" BookstoreSystem

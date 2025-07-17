@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Eiichiro Oda",
+        "price": 25,
+        "stockQuantity": 10,
+        "title": "One Piece",
+        "category": "Manga",
+        "bookID": "B001"
+    },
+    {
+        "author": "Masashi Kishimoto",
+        "price": 22,
+        "stockQuantity": 8,
+        "title": "Naruto",
+        "category": "Manga",
+        "bookID": "B002"
+    },
+    {
+        "author": "Hajime Isayama",
+        "price": 30,
+        "stockQuantity": 5,
+        "title": "Attack on Titan",
+        "category": "Manga",
+        "bookID": "B003"
+    }
+]
